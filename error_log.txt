@@ -1,0 +1,99 @@
+[20-Nov-2025 17:58:40 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 17
+[20-Nov-2025 17:58:40 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 18
+[20-Nov-2025 17:58:40 Asia/Kolkata] PHP Warning:  Attempt to read property "password" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 19
+[20-Nov-2025 17:58:40 Asia/Kolkata] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\xampp\htdocs\API\user\functions\functions.php on line 20
+[20-Nov-2025 17:58:40 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 21
+[20-Nov-2025 17:58:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in C:\xampp\htdocs\API\user\functions\functions.php:31
+Stack trace:
+#0 C:\xampp\htdocs\API\user\functions\functions.php(31): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\API\user\index.php(13): registerUser(Object(mysqli))
+#2 {main}
+  thrown in C:\xampp\htdocs\API\user\functions\functions.php on line 31
+[20-Nov-2025 17:59:27 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 17
+[20-Nov-2025 17:59:27 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 18
+[20-Nov-2025 17:59:27 Asia/Kolkata] PHP Warning:  Attempt to read property "password" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 19
+[20-Nov-2025 17:59:27 Asia/Kolkata] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\xampp\htdocs\API\user\functions\functions.php on line 20
+[20-Nov-2025 17:59:27 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 21
+[20-Nov-2025 17:59:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in C:\xampp\htdocs\API\user\functions\functions.php:31
+Stack trace:
+#0 C:\xampp\htdocs\API\user\functions\functions.php(31): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\API\user\index.php(13): registerUser(Object(mysqli))
+#2 {main}
+  thrown in C:\xampp\htdocs\API\user\functions\functions.php on line 31
+[20-Nov-2025 18:01:34 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 17
+[20-Nov-2025 18:01:34 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 18
+[20-Nov-2025 18:01:34 Asia/Kolkata] PHP Warning:  Attempt to read property "password" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 19
+[20-Nov-2025 18:01:34 Asia/Kolkata] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\xampp\htdocs\API\user\functions\functions.php on line 20
+[20-Nov-2025 18:01:34 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 21
+[20-Nov-2025 18:01:34 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in C:\xampp\htdocs\API\user\functions\functions.php:31
+Stack trace:
+#0 C:\xampp\htdocs\API\user\functions\functions.php(31): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\API\user\index.php(13): registerUser(Object(mysqli))
+#2 {main}
+  thrown in C:\xampp\htdocs\API\user\functions\functions.php on line 31
+[20-Nov-2025 18:02:05 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 17
+[20-Nov-2025 18:02:05 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 18
+[20-Nov-2025 18:02:05 Asia/Kolkata] PHP Warning:  Attempt to read property "password" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 19
+[20-Nov-2025 18:02:05 Asia/Kolkata] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\xampp\htdocs\API\user\functions\functions.php on line 20
+[20-Nov-2025 18:02:05 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 21
+[20-Nov-2025 18:02:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in C:\xampp\htdocs\API\user\functions\functions.php:31
+Stack trace:
+#0 C:\xampp\htdocs\API\user\functions\functions.php(31): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\API\user\index.php(13): registerUser(Object(mysqli))
+#2 {main}
+  thrown in C:\xampp\htdocs\API\user\functions\functions.php on line 31
+[20-Nov-2025 18:03:14 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 17
+[20-Nov-2025 18:03:14 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 18
+[20-Nov-2025 18:03:14 Asia/Kolkata] PHP Warning:  Attempt to read property "password" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 19
+[20-Nov-2025 18:03:14 Asia/Kolkata] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\xampp\htdocs\API\user\functions\functions.php on line 20
+[20-Nov-2025 18:03:15 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 21
+[20-Nov-2025 18:03:15 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in C:\xampp\htdocs\API\user\functions\functions.php:31
+Stack trace:
+#0 C:\xampp\htdocs\API\user\functions\functions.php(31): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\API\user\index.php(13): registerUser(Object(mysqli))
+#2 {main}
+  thrown in C:\xampp\htdocs\API\user\functions\functions.php on line 31
+[20-Nov-2025 18:06:49 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 17
+[20-Nov-2025 18:06:49 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 18
+[20-Nov-2025 18:06:49 Asia/Kolkata] PHP Warning:  Attempt to read property "password" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 19
+[20-Nov-2025 18:06:49 Asia/Kolkata] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\xampp\htdocs\API\user\functions\functions.php on line 20
+[20-Nov-2025 18:06:49 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 21
+[20-Nov-2025 18:06:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in C:\xampp\htdocs\API\user\functions\functions.php:31
+Stack trace:
+#0 C:\xampp\htdocs\API\user\functions\functions.php(31): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\API\user\index.php(13): registerUser(Object(mysqli))
+#2 {main}
+  thrown in C:\xampp\htdocs\API\user\functions\functions.php on line 31
+[20-Nov-2025 18:07:41 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 17
+[20-Nov-2025 18:07:41 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 18
+[20-Nov-2025 18:07:41 Asia/Kolkata] PHP Warning:  Attempt to read property "password" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 19
+[20-Nov-2025 18:07:41 Asia/Kolkata] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\xampp\htdocs\API\user\functions\functions.php on line 20
+[20-Nov-2025 18:07:41 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 21
+[20-Nov-2025 18:07:41 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in C:\xampp\htdocs\API\user\functions\functions.php:31
+Stack trace:
+#0 C:\xampp\htdocs\API\user\functions\functions.php(31): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\API\user\index.php(13): registerUser(Object(mysqli))
+#2 {main}
+  thrown in C:\xampp\htdocs\API\user\functions\functions.php on line 31
+[26-Nov-2025 12:58:10 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 17
+[26-Nov-2025 12:58:10 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 18
+[26-Nov-2025 12:58:10 Asia/Kolkata] PHP Warning:  Attempt to read property "password" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 19
+[26-Nov-2025 12:58:10 Asia/Kolkata] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\xampp\htdocs\API\user\functions\functions.php on line 20
+[26-Nov-2025 12:58:10 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 21
+[26-Nov-2025 12:58:10 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in C:\xampp\htdocs\API\user\functions\functions.php:31
+Stack trace:
+#0 C:\xampp\htdocs\API\user\functions\functions.php(31): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\API\user\index.php(13): registerUser(Object(mysqli))
+#2 {main}
+  thrown in C:\xampp\htdocs\API\user\functions\functions.php on line 31
+[11-Dec-2025 12:17:55 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 17
+[11-Dec-2025 12:17:55 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 18
+[11-Dec-2025 12:17:55 Asia/Kolkata] PHP Warning:  Attempt to read property "password" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 19
+[11-Dec-2025 12:17:55 Asia/Kolkata] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\xampp\htdocs\API\user\functions\functions.php on line 20
+[11-Dec-2025 12:17:55 Asia/Kolkata] PHP Warning:  Attempt to read property "address" on null in C:\xampp\htdocs\API\user\functions\functions.php on line 21
+[11-Dec-2025 12:17:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in C:\xampp\htdocs\API\user\functions\functions.php:31
+Stack trace:
+#0 C:\xampp\htdocs\API\user\functions\functions.php(31): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\API\user\index.php(13): registerUser(Object(mysqli))
+#2 {main}
+  thrown in C:\xampp\htdocs\API\user\functions\functions.php on line 31
